@@ -396,12 +396,12 @@
         "source": "D:\\GitHub\\imkitlibrary\\IMKit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\rc_ic_notice_point.png"
     },
     {
-        "merged": "D:\\GitHub\\imkitlibrary\\IMKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_ic_voice_sent_play3.png",
-        "source": "D:\\GitHub\\imkitlibrary\\IMKit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\rc_ic_voice_sent_play3.png"
-    },
-    {
         "merged": "D:\\GitHub\\imkitlibrary\\IMKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\u1f30f.png",
         "source": "D:\\GitHub\\imkitlibrary\\IMKit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\u1f30f.png"
+    },
+    {
+        "merged": "D:\\GitHub\\imkitlibrary\\IMKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_ic_voice_sent_play3.png",
+        "source": "D:\\GitHub\\imkitlibrary\\IMKit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\rc_ic_voice_sent_play3.png"
     },
     {
         "merged": "D:\\GitHub\\imkitlibrary\\IMKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\u1f349.png",
